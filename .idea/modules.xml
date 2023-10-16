@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatorMisson/CalculatorMisson.iml" filepath="$PROJECT_DIR$/CalculatorMisson/CalculatorMisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatureProject/CreatureProject.iml" filepath="$PROJECT_DIR$/CreatureProject/CreatureProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-calculator.iml" filepath="$PROJECT_DIR$/.idea/java-calculator.iml" />
+    </modules>
+  </component>
+</project>

@@ -69,7 +69,6 @@ public static void main(String[] args) {
 현재 값은 10.0 입니다.
 현재 값은 100.0 입니다.
 현재 값은 10.0 입니다.
-0으로 나눌 수 없습니다.
 현재 값은 Infinity 입니다.
 현재 값은 Infinity 입니다.
 계산기가 초기화 됩니다.
